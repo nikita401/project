@@ -1,3 +1,46 @@
-.Name {
-  text-align: right;
+table {
+  text-align: center;
+  background: background: linear-gradient(to top, #8B0000, #B22222); ;
+  border: 2px solid #000000;
+ 
 }
+.red {
+  background-color: #800000;
+ 
+}
+.Gold{
+    color: #DAA520;
+} 
+.blue{
+  color: #3d48a8;
+  background-color: #e7db96;
+}
+.gradient1{
+  background: linear-gradient(to right, #8B0000, #b66b6b);
+}
+.gradient2{
+  background: linear-gradient(to right, hsl(8, 97%, 24%), #8d5a49);
+}
+#gradient2{
+   background: linear-gradient(to right, hsl(8, 97%, 24%), #8d5a49);
+
+}
+#gradient3{
+  background: linear-gradient(to right, #8d5a49, #d1ab9f);
+}
+#gradient4{
+  background: linear-gradient(to right,#d1ab9f, #e9cdc4);
+}
+#gradient5{
+  background: linear-gradient(to right,#e9cdc4, #fae9e3);
+}
+#gradient6{
+  background: linear-gradient(to right,#fae9e3, #f5eeeb);
+}
+#gradient7{
+  background: linear-gradient(to right,#f5eeeb, #ffffff);
+}
+
+
+    
+    
